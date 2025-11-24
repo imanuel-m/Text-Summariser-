@@ -16,6 +16,4 @@ npm run dev
 
 ## One-Click Deploy
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryarturogi/text-summarizer&env=OPENAI_API_KEY&project-name=text-summarizer&repo-name=text-summarizer)
+Deploy the example using [Vercel](https://textsummariser1.vercel.app/):

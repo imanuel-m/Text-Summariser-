@@ -20,7 +20,7 @@
     "react-hot-toast": "^2.4.0",
     "react-use-measure": "^2.1.1",
 
-    "openai": "^4.38.0"   <-- ⭐ ADD THIS
+    "openai": "^4.38.0"  
   },
   "devDependencies": {
     "@types/node": "18.11.3",
